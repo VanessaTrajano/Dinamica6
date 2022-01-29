@@ -27,34 +27,34 @@ let cadastro = [
         nome: "Vanessa",
         idade: 17,
         telefone: "(32)984933999",
-        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa"]
+        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa", "João"]
     },
     {
         nome: "Vanessa",
         idade: 17,
         telefone: "(32)984933999",
-        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa"]
+        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa", "João"]
     },    
     {
         nome: "Vanessa",
         idade: 17,
         telefone: "(32)984933999",
-        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa"]
+        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa", "João"]
     },
     {
         nome: "Vanessa",
         idade: 17,
         telefone: "(32)984933999",
-        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa"]
+        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa", "João"]
     },
     {
         nome: "Vanessa",
         idade: 17,
         telefone: "(32)984933999",
-        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa"]
+        amigos: ["Gabriel", "Nicolas", "Samira", "Larissa", "João"]
     }
 ]
 
 // Mostre no console o nome de um amigo de cada lista.
 
-console.log(cadastro[0].amigos[0], cadastro[1].amigos[1], cadastro[2].amigos[2], cadastro[3].amigos[3], cadastro[4].amigos[0])
+console.log(cadastro[0].amigos[0], cadastro[1].amigos[1], cadastro[2].amigos[2], cadastro[3].amigos[3], cadastro[4].amigos[4])
